@@ -1,0 +1,6 @@
+{
+  "name": "VibeCheck - Songs Sorter",
+  "description": "An interactive tool to sort and categorize your downloaded audio collection quickly with automatic 10-second middle preview clips, custom folder tags, and a ZIP exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
